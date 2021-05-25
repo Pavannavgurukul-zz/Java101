@@ -1,0 +1,70 @@
+nestedLoops/TableOf1To20.java
+ nestedLoops.TableOf1To20
+userInput/SimpleIntrest.java
+ userInput.SimpleIntrest
+conditionStatement/NestedIfClass.java
+ conditionStatement.NestedIfClass
+loops/Prime.java
+ loops.Prime
+userInput/UserInputScanner.java
+ userInput.UserInputScanner
+conditionStatement/IfElseClass.java
+ conditionStatement.IfElseClass
+loops/Series.java
+ loops.Series
+nestedLoops/Pattern2.java
+ nestedLoops.Pattern2
+oprators/ArithmeticOperators.java
+ oprators.ArithmeticOperators
+nestedLoops/Pattern5.java
+ nestedLoops.Pattern5
+conditionStatement/Calculator.java
+ conditionStatement.Calculator
+loops/Fibonacci.java
+ loops.Fibonacci
+loops/Power.java
+ loops.Power
+nestedLoops/Pattern.java
+ nestedLoops.Pattern
+nestedLoops/Pattern8.java
+ nestedLoops.Pattern8
+conditionStatement/SwitchStatement.java
+ conditionStatement.SwitchStatement
+whileLoop/Palindrome.java
+ whileLoop.Palindrome
+oprators/BitwiseOperators.java
+ oprators.BitwiseOperators
+DataTypes/DataTypes.java
+ DataTypes.DataTypes
+nestedLoops/Pattern1.java
+ nestedLoops.Pattern1
+loops/BreakStatement.java
+ loops.BreakStatement
+nestedLoops/Pattern7.java
+ nestedLoops.Pattern7
+nestedLoops/Pattern4.java
+ nestedLoops.Pattern4
+nestedLoops/Pattern6.java
+ nestedLoops.Pattern6
+nestedLoops/Pattern3.java
+ nestedLoops.Pattern3
+loops/ForLoop.java
+ loops.ForLoop
+whileLoop/SumOfDigits.java
+ whileLoop.SumOfDigits
+oprators/ComparisonOperators.java
+ oprators.ComparisonOperators
+typeCasting/TypeCasting.java
+ typeCasting.TypeCasting
+loops/Factorial.java
+ loops.Factorial
+conditionStatement/IfClass.java
+ conditionStatement.IfClass
+whileLoop/DoWhileLoop.java
+ whileLoop.DoWhileLoop
+arrays/ArraysExample.java
+ arrays.ArraysExample
+arrays/TwoDimensionsArray.java
+ arrays.TwoDimensionsArray
+arrays/MatrixAddition.java
+ arrays.MatrixAddition
