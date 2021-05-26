@@ -15,13 +15,16 @@ public class BubbleSort {
         }
 
         for(int i=0; i<n-1; i++){
-            for(int j=0; j<toSort.length-1; j++){
+            boolean sorted = true;
+            for(int j=0; j<(n-1-i); j++){
                 if(toSort[j] > toSort[j+1]){
-                    int temp = toSort[j];
-                    toSort[j] = toSort[j+1];
-                    toSort[j+1] = temp;
+                    int temp = toSort[j+1];
+                    toSort[j+1] = toSort[j];
+                    toSort[j] = temp;
+                    sorted = false;
                 }
             }
+            if(sorted) break;
         }
 
         for(int number : toSort){ System.out.print(number + " ");}

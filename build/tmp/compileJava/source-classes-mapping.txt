@@ -6,10 +6,16 @@ conditionStatement/NestedIfClass.java
  conditionStatement.NestedIfClass
 loops/Prime.java
  loops.Prime
+arrays/TwoDimensionsArray.java
+ arrays.TwoDimensionsArray
 userInput/UserInputScanner.java
  userInput.UserInputScanner
 conditionStatement/IfElseClass.java
  conditionStatement.IfElseClass
+arrays/ArraysExample.java
+ arrays.ArraysExample
+loops/Factorial.java
+ loops.Factorial
 loops/Series.java
  loops.Series
 nestedLoops/Pattern2.java
@@ -56,15 +62,19 @@ oprators/ComparisonOperators.java
  oprators.ComparisonOperators
 typeCasting/TypeCasting.java
  typeCasting.TypeCasting
-loops/Factorial.java
- loops.Factorial
-conditionStatement/IfClass.java
- conditionStatement.IfClass
 whileLoop/DoWhileLoop.java
  whileLoop.DoWhileLoop
-arrays/ArraysExample.java
- arrays.ArraysExample
-arrays/TwoDimensionsArray.java
- arrays.TwoDimensionsArray
 arrays/MatrixAddition.java
  arrays.MatrixAddition
+conditionStatement/IfClass.java
+ conditionStatement.IfClass
+arrays/BubbleSort.java
+ arrays.BubbleSort
+arrays/SelectionSort.java
+ arrays.SelectionSort
+strings/StringMethods.java
+ strings.StringMethods
+strings/Anagram.java
+ strings.Anagram
+strings/ReverseString.java
+ strings.ReverseString
