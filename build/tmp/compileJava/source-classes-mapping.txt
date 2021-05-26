@@ -78,3 +78,10 @@ strings/Anagram.java
  strings.Anagram
 strings/ReverseString.java
  strings.ReverseString
+opps/MainClass.java
+ opps.Dog
+ opps.MainClass
+methods/PassByValue.java
+ methods.PassByValue
+methods/Introduction.java
+ methods.Introduction
